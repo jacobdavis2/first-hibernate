@@ -4,6 +4,12 @@
   <artifactId>First-Hibernate</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+	<properties>
+	  <sonar.projectKey>jacobdavis2_first-hibernate</sonar.projectKey>
+	  <sonar.organization>jacobdavis2</sonar.organization>
+	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+	 
   <dependencies>
   	<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
 	<dependency>
