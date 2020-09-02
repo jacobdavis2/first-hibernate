@@ -1,9 +1,9 @@
+package Utils;
 import java.util.List;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import Utils.HibernateUtils;
 import Models.*;
 
 public class App {
