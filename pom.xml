@@ -3,7 +3,6 @@
   <groupId>com.revature.jacob</groupId>
   <artifactId>First-Hibernate</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
   
 	<properties>
 	  <sonar.projectKey>jacobdavis2_first-hibernate</sonar.projectKey>
